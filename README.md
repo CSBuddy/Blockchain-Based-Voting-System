@@ -6,4 +6,4 @@ It is completely secure. &amp; It is trustless system.<br/>
 1. First `unzip rpc-test-master.zip`
 2. Unzip `Interface.zip`
 3. Install dependencies for linux 64 bit only
-4. command to execute for linux omnly `testrpc`
+4. command to execute for linux only `testrpc`
